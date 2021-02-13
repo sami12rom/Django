@@ -44,9 +44,9 @@
   </p>
 </p>
 
+-->
 
-
-<!-- TABLE OF CONTENTS -->
+<!-- TABLE OF CONTENTS 
 <details open="open">
   <summary>Table of Contents</summary>
   <ol>
@@ -99,7 +99,7 @@ This section should list any major frameworks that you built your project using.
 
 
 
-<!-- GETTING STARTED -->
+<!-- GETTING STARTED 
 ## Getting Started
 
 This is an example of how you may give instructions on setting up your project locally.
@@ -129,7 +129,7 @@ This is an example of how to list things you need to use the software and how to
    const API_KEY = 'ENTER YOUR API';
    ```
 
-
+-->
 
 <!-- USAGE EXAMPLES 
 ## Usage
@@ -163,9 +163,9 @@ Contributions are what make the open source community such an amazing place to b
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+<!-- Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com -->
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [https://github.com/sami12rom](https://github.com/sami12rom)
 
 
 

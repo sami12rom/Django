@@ -4,15 +4,16 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Project is about:
+Project is about experimenting with the Django Framework.
 
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
+* It will be a great way to see Django's capabilities
+* Could be an opportunity to apply it in future projects
 
-### Built With
+### Interesting Links
 
-This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-* [Bootstrap](https://getbootstrap.com)
+Below are interesting links related to this project:
+* [Django](https://www.djangoproject.com/)
+* [django-vs-flask](https://www.geeksforgeeks.org/differences-between-django-vs-flask/)
 
 <!-- ROADMAP -->
 ## Roadmap
